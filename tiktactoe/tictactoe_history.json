@@ -1,0 +1,211 @@
+[
+    {
+        "timestamp": "2025-07-18 16:58:58",
+        "moves": [
+            "You -> row 1, col 1",
+            "AI -> row 2, col 2",
+            "You -> row 3, col 3",
+            "AI -> row 1, col 2",
+            "You -> row 3, col 2",
+            "AI -> row 3, col 1",
+            "You -> row 2, col 1",
+            "AI -> row 1, col 3"
+        ],
+        "winner": "AI"
+    },
+    {
+        "timestamp": "2025-07-18 16:59:24",
+        "moves": [
+            "You -> row 2, col 2",
+            "AI -> row 1, col 1",
+            "You -> row 3, col 3",
+            "AI -> row 1, col 3",
+            "You -> row 1, col 2",
+            "AI -> row 3, col 2",
+            "You -> row 3, col 1",
+            "AI -> row 2, col 1",
+            "You -> row 2, col 3"
+        ],
+        "winner": "Tie"
+    },
+    {
+        "timestamp": "2025-07-18 16:59:53",
+        "moves": [
+            "You -> row 1, col 1",
+            "AI -> row 2, col 2",
+            "You -> row 3, col 3",
+            "AI -> row 1, col 2",
+            "You -> row 3, col 2",
+            "AI -> row 3, col 1",
+            "You -> row 1, col 3",
+            "AI -> row 2, col 3",
+            "You -> row 2, col 1"
+        ],
+        "winner": "Tie"
+    },
+    {
+        "timestamp": "2025-07-18 17:00:14",
+        "moves": [
+            "You -> row 2, col 2",
+            "AI -> row 1, col 1",
+            "You -> row 2, col 1",
+            "AI -> row 2, col 3",
+            "You -> row 1, col 2",
+            "AI -> row 3, col 2",
+            "You -> row 3, col 1",
+            "AI -> row 1, col 3",
+            "You -> row 3, col 3"
+        ],
+        "winner": "Tie"
+    },
+    {
+        "timestamp": "2025-07-18 17:00:53",
+        "moves": [
+            "You -> row 1, col 3",
+            "AI -> row 2, col 2",
+            "You -> row 3, col 1",
+            "AI -> row 1, col 2",
+            "You -> row 3, col 2",
+            "AI -> row 3, col 3",
+            "You -> row 1, col 1",
+            "AI -> row 2, col 1",
+            "You -> row 2, col 3"
+        ],
+        "winner": "Tie"
+    },
+    {
+        "timestamp": "2025-07-18 17:01:07",
+        "moves": [
+            "You -> row 2, col 2",
+            "AI -> row 1, col 1",
+            "You -> row 1, col 3",
+            "AI -> row 3, col 1",
+            "You -> row 2, col 1",
+            "AI -> row 2, col 3",
+            "You -> row 3, col 3",
+            "AI -> row 1, col 2",
+            "You -> row 3, col 2"
+        ],
+        "winner": "Tie"
+    },
+    {
+        "board": [
+            "X",
+            "X",
+            "O",
+            "O",
+            "O",
+            "X",
+            "X",
+            "O",
+            "X"
+        ],
+        "winner": "Tie",
+        "timestamp": "2025-07-18 17:15:19"
+    },
+    {
+        "board": [
+            "O",
+            "X",
+            "X",
+            "X",
+            "X",
+            "",
+            "O",
+            "O",
+            "O"
+        ],
+        "winner": "O",
+        "timestamp": "2025-07-18 17:15:40"
+    },
+    {
+        "board": [
+            "X",
+            "O",
+            "X",
+            "X",
+            "O",
+            "O",
+            "O",
+            "X",
+            "X"
+        ],
+        "winner": "Tie",
+        "timestamp": "2025-07-18 17:15:51"
+    },
+    {
+        "board": [
+            "O",
+            "X",
+            "O",
+            "O",
+            "X",
+            "X",
+            "X",
+            "O",
+            "X"
+        ],
+        "winner": "Tie",
+        "timestamp": "2025-07-18 17:16:00"
+    },
+    {
+        "board": [
+            "X",
+            "O",
+            "X",
+            "X",
+            "O",
+            "O",
+            "O",
+            "X",
+            "X"
+        ],
+        "winner": "Tie",
+        "timestamp": "2025-07-18 17:16:11"
+    },
+    {
+        "board": [
+            "X",
+            "O",
+            "X",
+            "O",
+            "O",
+            "X",
+            "X",
+            "X",
+            "O"
+        ],
+        "winner": "Tie",
+        "timestamp": "2025-07-18 17:16:23"
+    },
+    {
+        "board": [
+            "X",
+            "O",
+            "X",
+            "O",
+            "O",
+            "X",
+            "X",
+            "X",
+            "O"
+        ],
+        "winner": "Tie",
+        "timestamp": "2025-07-18 17:16:36"
+    },
+    {
+        "board": [
+            "X",
+            "O",
+            "X",
+            "O",
+            "O",
+            "X",
+            "X",
+            "O",
+            ""
+        ],
+        "winner": "O",
+        "timestamp": "2025-07-18 17:16:43"
+    }
+]

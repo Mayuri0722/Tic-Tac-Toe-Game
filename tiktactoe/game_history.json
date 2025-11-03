@@ -1,0 +1,171 @@
+[
+    {
+        "winner": "Tie",
+        "final_board": [
+            "X",
+            "O",
+            "X",
+            "X",
+            "O",
+            "O",
+            "O",
+            "X",
+            "X"
+        ]
+    },
+    {
+        "winner": "O",
+        "final_board": [
+            "X",
+            "",
+            "",
+            "O",
+            "O",
+            "O",
+            "",
+            "X",
+            "X"
+        ]
+    },
+    {
+        "winner": "Tie",
+        "final_board": [
+            "X",
+            "O",
+            "X",
+            "X",
+            "O",
+            "X",
+            "O",
+            "X",
+            "O"
+        ]
+    },
+    {
+        "winner": "Tie",
+        "final_board": [
+            "O",
+            "O",
+            "X",
+            "X",
+            "X",
+            "O",
+            "O",
+            "X",
+            "X"
+        ]
+    },
+    "O",
+    {
+        "winner": "Tie",
+        "final_board": [
+            "O",
+            "X",
+            "O",
+            "X",
+            "X",
+            "O",
+            "X",
+            "O",
+            "X"
+        ]
+    },
+    {
+        "winner": "Tie",
+        "final_board": [
+            "X",
+            "O",
+            "X",
+            "X",
+            "O",
+            "O",
+            "O",
+            "X",
+            "X"
+        ]
+    },
+    {
+        "winner": "O",
+        "final_board": [
+            "O",
+            "X",
+            "X",
+            "O",
+            "X",
+            "X",
+            "O",
+            "O",
+            ""
+        ]
+    },
+    {
+        "winner": "Tie",
+        "final_board": [
+            "X",
+            "O",
+            "X",
+            "X",
+            "O",
+            "O",
+            "O",
+            "X",
+            "X"
+        ]
+    },
+    {
+        "winner": "O",
+        "final_board": [
+            "O",
+            "O",
+            "O",
+            "X",
+            "X",
+            "",
+            "",
+            "X",
+            ""
+        ]
+    },
+    {
+        "winner": "O",
+        "final_board": [
+            "X",
+            "O",
+            "X",
+            "X",
+            "O",
+            "O",
+            "",
+            "O",
+            "X"
+        ]
+    },
+    {
+        "winner": "Tie",
+        "final_board": [
+            "O",
+            "O",
+            "X",
+            "X",
+            "X",
+            "O",
+            "O",
+            "X",
+            "X"
+        ]
+    },
+    {
+        "winner": "Tie",
+        "final_board": [
+            "O",
+            "X",
+            "O",
+            "O",
+            "X",
+            "X",
+            "X",
+            "O",
+            "X"
+        ]
+    }
+]
